@@ -9,7 +9,7 @@
 </p>
 <h1>Cisco CCNA (Cisco Certified Network Associate)</h1>
 <p>
-    <img src="Certificados/Cisco CCNA.png" alt="Cisco CCNA (Cisco Certified Network Associate)" width="815" height="550"/>  
+    <img src="Certificados/Cisco Certified Network Associate.png" alt="Cisco CCNA (Cisco Certified Network Associate)" width="815" height="550"/>  
 </p>
 <h1>Juniper JNCIA-Junos</h1>
 <p> 
