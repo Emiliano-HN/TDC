@@ -89,6 +89,29 @@
     <img src="Certificados/Certified Kubernetes Application Developer.png" alt="Certified Kubernetes Application Developer (CKAD)" width="815" height="550"/>  
 </p>
 
+<h1 align="center" >Seguridad / Pentesting</h1>
+
+<h1>CompTIA Security+</h1>
+<p>
+    <img src="Certificados/CompTIA Security+.png" alt="CompTIA Security+" width="815" height="550"/> 
+</p>
+<h1>CEH (Certified Ethical Hacker)</h1>
+<p>
+    <img src="Certificados/CEH.png" alt="CEH (Certified Ethical Hacker)" width="815" height="550"/>  
+</p>
+<h1>OSCP (Offensive Security Certified Professional)</h1>
+<p> 
+    <img src="Certificados/OSCP.png" alt="OSCP (Offensive Security Certified Professional)" width="815" height="550"/>
+</p>
+<h1>GIAC Penetration Tester (GPEN)</h1>
+<p>
+    <img src="Certificados/GIAC Penetration Tester.png" alt="GIAC Penetration Tester (GPEN)" width="815" height="550"/>  
+</p>
+<h1>CISSP (Certified Information Systems Security Professional)</h1>
+<p> 
+    <img src="Certificados/CISSP.png" alt="CISSP (Certified Information Systems Security Professional)" width="815" height="550"/>
+</p>
+
 <div align="center">
    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
 </div>
