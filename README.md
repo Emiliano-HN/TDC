@@ -40,7 +40,7 @@
 </p>
 <h1>MCSA: Windows Server 2016</h1>
 <p>
-    <img src="Certificados/MCSA: Windows Server 2016.png" alt="MCSA: Windows Server 2016" width="815" height="550"/>  
+    <img src="Certificados/MCSA Windows Server 2016.png" alt="MCSA: Windows Server 2016" width="815" height="550"/>  
 </p>
 <h1>Google Associate Cloud Engineer</h1>
 <p> 
