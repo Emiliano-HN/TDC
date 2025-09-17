@@ -5,15 +5,15 @@
 
 <h1>CompTIA Network+</h1>
 <p>
-    <img src="" alt="CompTIA Network+" width="405" height="800"/> 
+    <img src="Certificados/CompTIA Network+.PNG" alt="CompTIA Network+" width="815" height="550"/> 
 </p>
 <h1>Cisco CCNA (Cisco Certified Network Associate)</h1>
 <p>
-    <img src="" alt="Cisco CCNA (Cisco Certified Network Associate)" width="405" height="800"/>  
+    <img src="Certificados/Cisco CCNA.png" alt="Cisco CCNA (Cisco Certified Network Associate)" width="815" height="550"/>  
 </p>
 <h1>Juniper JNCIA-Junos</h1>
 <p> 
-    <img src="" alt="Juniper JNCIA-Junos" width="815" height="550"/>
+    <img src="Certificados/Juniper JNCIA-Junos.png" alt="Juniper JNCIA-Junos" width="815" height="550"/>
 </p>
 
 <div align="center">
