@@ -5,7 +5,7 @@
 
 <h1>CompTIA Network+</h1>
 <p>
-    <img src="Certificados/CompTIA Network+.png" alt="CompTIA Network+" width="815" height="550"/> 
+    <img src="Certificados/CompTIA Network.png" alt="CompTIA Network+" width="815" height="550"/> 
 </p>
 <h1>Cisco CCNA (Cisco Certified Network Associate)</h1>
 <p>
