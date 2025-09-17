@@ -47,6 +47,29 @@
     <img src="Certificados/Google Associate Cloud Engineer.png" alt="Google Associate Cloud Engineer" width="815" height="550"/>
 </p>
 
+<h1 align="center" >Bases de Datos</h1>
+
+<h1>Oracle Database SQL Certified Associate</h1>
+<p>
+    <img src="Certificados/Oracle Database SQL Certified Associate.png" alt="Oracle Database SQL Certified Associate" width="815" height="550"/> 
+</p>
+<h1>Microsoft Certified: Azure Database Administrator Associate</h1>
+<p>
+    <img src="Certificados/Microsoft Certified: Azure Database Administrator Associate.png" alt="Microsoft Certified: Azure Database Administrator Associate" width="815" height="550"/>  
+</p>
+<h1>MongoDB Certified DBA Associate</h1>
+<p> 
+    <img src="Certificados/MongoDB Certified DBA Associate.png" alt="MongoDB Certified DBA Associate" width="815" height="550"/>
+</p>
+<h1>MySQL Database Administrator Certification</h1>
+<p>
+    <img src="Certificados/MySQL Database Administrator Certification.png" alt="MySQL Database Administrator Certification" width="815" height="550"/>  
+</p>
+<h1>Google Professional Data Engineer</h1>
+<p> 
+    <img src="Certificados/Google Professional Data Engineer.png" alt="Google Professional Data Engineer" width="815" height="550"/>
+</p>
+
 <div align="center">
    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
 </div>
