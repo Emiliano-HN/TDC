@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
-<h1>Redes</h1>
+<h1 align="center" >Redes</h1>
 
 <h1>CompTIA Network+</h1>
 <p>
