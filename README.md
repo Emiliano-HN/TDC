@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
-<h1 align="center" >Redes</h1>
+<h1 align="center" >networks</h1>
 
 <h1>CompTIA Network+</h1>
 <p>
@@ -20,7 +20,7 @@
     <img src="Certificados/CompTIA Cloud+.png" alt="CompTIA Cloud+" width="815" height="550"/>  
 </p>
 
-<h1 align="center" >Sistemas Operativos</h1>
+<h1 align="center" >operating systems</h1>
 
 <h1>LPIC-1</h1>
 <p>
@@ -35,7 +35,7 @@
     <img src="Certificados/Google Associate Cloud Engineer.png" alt="Google Associate Cloud Engineer" width="815" height="550"/>
 </p>
 
-<h1 align="center" >Bases de Datos</h1>
+<h1 align="center" >database</h1>
 
 <h1>Oracle Database SQL Certified Associate</h1>
 <p>
@@ -58,7 +58,7 @@
     <img src="Certificados/Google Professional Data Engineer.png" alt="Google Professional Data Engineer" width="815" height="550"/>
 </p>
 
-<h1 align="center" >Programación / Automatización</h1>
+<h1 align="center" >Programming / Automation</h1>
 
 <h1>Python Institute PCEP</h1>
 <p>
@@ -77,7 +77,7 @@
     <img src="Certificados/Certified Kubernetes Application Developer.png" alt="Certified Kubernetes Application Developer (CKAD)" width="815" height="550"/>  
 </p>
 
-<h1 align="center" >Seguridad / Pentesting</h1>
+<h1 align="center" >Security / Pentesting</h1>
 
 <h1>CompTIA Security+</h1>
 <p>
