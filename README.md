@@ -24,7 +24,7 @@
     <img src="Certificados/Aruba Certified Network Associate.png" alt="Aruba Certified Network Associate (ACNA)" width="815" height="550"/>
 </p>
 
-<h1>Sistemas Operativos</h1>
+<h1 align="center" >Sistemas Operativos</h1>
 
 <h1>LPIC-1</h1>
 <p>
