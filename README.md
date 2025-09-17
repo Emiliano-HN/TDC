@@ -36,7 +36,7 @@
 </p>
 <h1>Microsoft Certified: Windows Server Fundamentals</h1>
 <p> 
-    <img src="Certificados/Microsoft Certified: Windows Server Fundamentals.png" alt="Microsoft Certified: Windows Server Fundamentals" width="815" height="550"/>
+    <img src="Certificados/Microsoft Certified Windows Server Fundamentals.png" alt="Microsoft Certified: Windows Server Fundamentals" width="815" height="550"/>
 </p>
 <h1>MCSA: Windows Server 2016</h1>
 <p>
