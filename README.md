@@ -13,7 +13,7 @@
 </p>
 <h1>Juniper JNCIA-Junos</h1>
 <p> 
-    <img src="Certificados/Juniper JNCIA-Junos.png" alt="Juniper JNCIA-Junos" width="815" height="550"/>
+    <img src="Certificados/Juniper JNCIA Junos.png" alt="Juniper JNCIA-Junos" width="815" height="550"/>
 </p>
 <h1>CompTIA Cloud+</h1>
 <p>
