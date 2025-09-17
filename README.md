@@ -24,7 +24,7 @@
 
 <h1>LPIC-1</h1>
 <p>
-    <img src="Certificados/LPIC-1+.png" alt="LPIC-1" width="815" height="550"/> 
+    <img src="Certificados/LPIC 1.png" alt="LPIC-1" width="815" height="550"/> 
 </p>
 <h1>Red Hat Certified System Administrator (RHCSA)</h1>
 <p>
