@@ -30,14 +30,6 @@
 <p>
     <img src="Certificados/RHCSA.png" alt="Red Hat Certified System Administrator (RHCSA)" width="815" height="550"/>  
 </p>
-<h1>Microsoft Certified: Windows Server Fundamentals</h1>
-<p> 
-    <img src="Certificados/Microsoft Certified Windows Server Fundamentals.png" alt="Microsoft Certified: Windows Server Fundamentals" width="815" height="550"/>
-</p>
-<h1>MCSA: Windows Server 2016</h1>
-<p>
-    <img src="Certificados/MCSA Windows Server 2016.png" alt="MCSA: Windows Server 2016" width="815" height="550"/>  
-</p>
 <h1>Google Associate Cloud Engineer</h1>
 <p> 
     <img src="Certificados/Google Associate Cloud Engineer.png" alt="Google Associate Cloud Engineer" width="815" height="550"/>
