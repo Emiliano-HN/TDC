@@ -55,7 +55,7 @@
 </p>
 <h1>Microsoft Certified: Azure Database Administrator Associate</h1>
 <p>
-    <img src="Certificados/Microsoft Certified: Azure Database Administrator Associate.png" alt="Microsoft Certified: Azure Database Administrator Associate" width="815" height="550"/>  
+    <img src="Certificados/Microsoft Certified Azure Database Administrator Associate.png" alt="Microsoft Certified: Azure Database Administrator Associate" width="815" height="550"/>  
 </p>
 <h1>MongoDB Certified DBA Associate</h1>
 <p> 
