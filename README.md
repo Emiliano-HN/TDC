@@ -70,6 +70,25 @@
     <img src="Certificados/Google Professional Data Engineer.png" alt="Google Professional Data Engineer" width="815" height="550"/>
 </p>
 
+<h1 align="center" >Programación / Automatización</h1>
+
+<h1>Python Institute PCEP</h1>
+<p>
+    <img src="Certificados/Python Institute PCEP.png" alt="Python Institute PCEP" width="815" height="550"/> 
+</p>
+<h1>Python Institute PCAP</h1>
+<p>
+    <img src="Certificados/Python Institute PCAP.png" alt="Python Institute PCAP" width="815" height="550"/>  
+</p>
+<h1>Oracle Certified Professional: Java SE Programmer</h1>
+<p> 
+    <img src="Certificados/Oracle Certified Professional Java SE Programmer.png" alt="Oracle Certified Professional: Java SE Programmer" width="815" height="550"/>
+</p>
+<h1>Certified Kubernetes Application Developer (CKAD)</h1>
+<p>
+    <img src="Certificados/Certified Kubernetes Application Developer.png" alt="Certified Kubernetes Application Developer (CKAD)" width="815" height="550"/>  
+</p>
+
 <div align="center">
    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
 </div>
